@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/r569642/Documents/Codes/ImageScalingPOC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/r569642/Documents/Codes/ImageScalingPOC/app/build/intermediates/pre-dexed/debug/classes-c7b7f157aa6cf535ac0bedcee61028f4d1a5cba8.jar" />
+    </item>
+    <item
+        jar="/Users/r569642/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/r569642/Documents/Codes/ImageScalingPOC/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-d92e9bab13e1c9cb96cd766db4273fd77561d510.jar" />
+    </item>
+    <item
+        jar="/Users/r569642/Documents/Codes/ImageScalingPOC/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/r569642/Documents/Codes/ImageScalingPOC/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-d56364ce40dcdf08fcbb07aba4f4f3bbc99b3829.jar" />
+    </item>
+    <item
+        jar="/Users/r569642/Documents/Codes/ImageScalingPOC/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/r569642/Documents/Codes/ImageScalingPOC/app/build/intermediates/pre-dexed/debug/classes-23e6d664ed9822868de1a131d373f747e5ff73f2.jar" />
+    </item>
+
+</items>
